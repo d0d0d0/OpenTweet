@@ -1,0 +1,4 @@
+ Number of tweets: 1560620
+ Number of outbound tweets: 537
+ Number of geo-tagged tweets: 396161
+ Ratio of geo-tagged tweets 0.253848
